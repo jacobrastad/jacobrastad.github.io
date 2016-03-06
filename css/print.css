@@ -1,0 +1,23 @@
+.article-image{
+page-break-after:never
+}
+.post-content,
+.footer-info.cf{
+  padding-top:0!important
+}
+.footer-info.cf{
+  margin:0
+}
+.post-reading,
+.footer-info.cf .isRight,
+.cf.post-meta-text,
+.post-meta center,
+.post-image-image,
+.bottom-closer,
+.share,
+.home-template .post-meta .post-tags-set,
+.pagination,
+.author-image,
+.subscribe icon-feed{
+  display:none;
+}

@@ -1,0 +1,63 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+
+title: "Jacob Rastad"
+email: "jacob.rastad@gmail.com"
+description: > # this means to ignore newlines until "baseurl:"
+   CTO @ Outnorth with a love for e-commerce and web development with Ruby on Rails, Elasticsearch,
+   PostgreSQL, Redis, Memcached and Varnish.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://jacobrastad.github.io" # the base hostname & protocol for your site
+twitter_username: "jacobrastad"
+github_username: "jacobrastad"
+highlighter: rough
+
+#blog logo
+logo: "/assets/images/jrastad_profile.jpg"
+# blog cover
+cover: "/assets/images/coffee_code_6UHHE19YG7.jpg"
+
+name: 'Jacob Rastad'
+author: 'Jacob Rastad'
+author_image: "/assets/images/jrastad_profile.jpg"
+
+paginate: 5
+
+#used to display twitter cards
+twitter_handle: '@jacobrastad'
+
+# social icons and sharing options
+social:
+  - icon: "twitter"
+    url:  "https://twitter.com/jacobrastad"
+    desc: "Follow me on twitter"
+    share_url: "http://twitter.com/share"
+    share_title: "?text="
+    share_link: "&amp;url="
+
+#  - icon:  facebook
+#    url: https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon: "github"
+    url:  "https://github.com/jacobrastad"
+    desc: "Fork me on github"
+    share_url:
+    share_title:
+    share_link:
+
+# Build settings
+markdown: kramdown
+
+github: [metadata]
+kramdown:
+ input: GFM
+ hard_wrap: false

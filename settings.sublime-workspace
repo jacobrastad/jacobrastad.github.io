@@ -1,0 +1,1763 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"jacob",
+				"jacobrastad"
+			],
+			[
+				"rela",
+				"relations"
+			],
+			[
+				"relati",
+				"relation_name"
+			],
+			[
+				"ass",
+				"association"
+			],
+			[
+				"des",
+				"destroyed_by_parent"
+			],
+			[
+				"rel",
+				"relation_name"
+			],
+			[
+				"pol",
+				"poly_classes"
+			],
+			[
+				"smart",
+				"smart_touch_relations"
+			],
+			[
+				"Act",
+				"ActiveRecord"
+			],
+			[
+				"ite",
+				"item_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3792,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/head.html",
+			"settings":
+			{
+				"buffer_size": 2942,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/javascripts.html",
+			"settings":
+			{
+				"buffer_size": 1464,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 5683,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 191 files for \"footer-infor\" (regex)\n\nC:\\Users\\jbrd\\rails\\jacobrastad.github.io\\_layouts\\post.html:\n   65            </section>\n   66          </footer>\n   67:         <div class=\"footer-infor cf\">\n   68            <div class=\"isLeft\">\n   69              <span class=\"index-headline featured\">Written by</span>\n\nC:\\Users\\jbrd\\rails\\jacobrastad.github.io\\_site\\css\\main.css:\n  580    .post .post-content ol li {\n  581      list-style-type: decimal; }\n  582: .post .footer-infor {\n  583    padding: 50px 0;\n  584    font-family: Open Sans, MundoSans, \"Helvetica Neue\", Arial, Helvetica, sans-serif; }\n  585:   .post .footer-infor hr {\n  586      border: 0;\n  587      padding: 0;\n  ...\n  591      border: 0px solid #ddd;\n  592      border-top: 1px solid #ddd; }\n  593:   .post .footer-infor .isLeft {\n  594      float: left;\n  595      width: 47%;\n  ...\n  598      box-sizing: border-box; }\n  599      @media only screen and (max-width: 800px) {\n  600:       .post .footer-infor .isLeft {\n  601          width: 100%;\n  602          padding-bottom: 32px; } }\n  603:     .post .footer-infor .isLeft .index-headline {\n  604        padding-bottom: 32px; }\n  605:     .post .footer-infor .isLeft a {\n  606        color: #000;\n  607        text-decoration: none; }\n  608:       .post .footer-infor .isLeft a:hover {\n  609          color: #333;\n  610          text-decoration: underline; }\n  611:     .post .footer-infor .isLeft .author-image {\n  612        display: block;\n  613        width: 80px;\n  ...\n  617        border-radius: 100%;\n  618        text-indent: -9999px; }\n  619:     .post .footer-infor .isLeft h4 {\n  620        font-size: 18px;\n  621        line-height: 1.1;\n  ...\n  624        margin: 0;\n  625        padding-left: 100px; }\n  626:     .post .footer-infor .isLeft p {\n  627        font-size: 14px;\n  628        line-height: 1.3;\n  ...\n  631        margin: 0;\n  632        padding-left: 100px; }\n  633:       .post .footer-infor .isLeft p.published {\n  634          color: #999; }\n  635:   .post .footer-infor .isRight {\n  636      float: right;\n  637      width: 47%;\n  ...\n  640      box-sizing: border-box; }\n  641      @media only screen and (max-width: 800px) {\n  642:       .post .footer-infor .isRight {\n  643          width: 100%; } }\n  644:     .post .footer-infor .isRight .index-headline {\n  645        padding-bottom: 32px;\n  646        display: block; }\n  647:     .post .footer-infor .isRight .site-footer {\n  648        margin: 0;\n  649        padding: 0;\n  ...\n  653        line-height: 1.3;\n  654        color: #999; }\n  655:       .post .footer-infor .isRight .site-footer a {\n  656          color: #333;\n  657          text-decoration: none; }\n  658:         .post .footer-infor .isRight .site-footer a:hover {\n  659            text-decoration: underline; }\n  660:       .post .footer-infor .isRight .site-footer .poweredby {\n  661          display: block;\n  662          padding-bottom: 18px;\n\nC:\\Users\\jbrd\\rails\\jacobrastad.github.io\\_site\\css\\print.css:\n    3  }\n    4  .post-content,\n    5: .footer-infor.cf{\n    6    padding-top:0!important\n    7  }\n    8: .footer-infor.cf{\n    9    margin:0\n   10  }\n   11  .post-reading,\n   12: .footer-infor.cf .isRight,\n   13  .cf.post-meta-text,\n   14  .post-meta center,\n\nC:\\Users\\jbrd\\rails\\jacobrastad.github.io\\_site\\jekyll\\update\\2016\\03\\04\\welcome-to-jekyll.html:\n  103            </section>\n  104          </footer>\n  105:         <div class=\"footer-infor cf\">\n  106            <div class=\"isLeft\">\n  107              <span class=\"index-headline featured\">Written by</span>\n\nC:\\Users\\jbrd\\rails\\jacobrastad.github.io\\css\\main.sass:\n  451      ol li\n  452        list-style-type: decimal\n  453:   .footer-infor\n  454      padding: 50px 0\n  455      font-family: $font-sans\n\nC:\\Users\\jbrd\\rails\\jacobrastad.github.io\\css\\print.css:\n    3  }\n    4  .post-content,\n    5: .footer-infor.cf{\n    6    padding-top:0!important\n    7  }\n    8: .footer-infor.cf{\n    9    margin:0\n   10  }\n   11  .post-reading,\n   12: .footer-infor.cf .isRight,\n   13  .cf.post-meta-text,\n   14  .post-meta center,\n\n27 matches across 6 files\n",
+			"settings":
+			{
+				"buffer_size": 4110,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1576,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.sass",
+			"settings":
+			{
+				"buffer_size": 13384,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 454.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/jbrd/rails/jacobrastad.github.io",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/_includes",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/_layouts",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/_posts",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/_sass/bourbon",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/assets",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/assets/article_images",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/assets/article_images/about",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/css"
+	],
+	"file_history":
+	[
+		"/C/Users/jbrd/rails/jacobrastad.github.io/css/print.css",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/_site/jekyll/update/2016/03/04/welcome-to-jekyll.html",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/_site/css/main.css",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/_site/css/print.css",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/_includes/header.html",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/_site/about/index.html",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/_site/index.html",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/_config.yml",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/_includes/head.html",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/_layouts/post.html",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/_includes/footer.html",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/about.md",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/css/main.sass",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/_layouts/page.html",
+		"/C/Users/jbrd/rails/mediator-master/_config.yml",
+		"/C/Users/jbrd/rails/mediator-master/about.md",
+		"/C/Users/jbrd/rails/mediator-master/Gemfile",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/Gemfile",
+		"/C/Users/jbrd/rails/mediator-master/.gitignore",
+		"/C/Users/jbrd/rails/jacobrastad.github.io/.gitignore",
+		"/C/Users/jbrd/rails/wookie/app/helpers/application_helper.rb",
+		"/C/Users/jbrd/rails/wookie/app/views/partials/_header.html.erb",
+		"/C/Users/jbrd/rails/wookie/master_yoda/lib/yoda/ssl_socket.rb",
+		"/C/Users/jbrd/rails/wookie/master_yoda/app/views/payment_methods/_payment_method.html.erb",
+		"/C/Temp/Gemfile.lock",
+		"/C/Users/jbrd/rails/wookie/Gemfile.lock",
+		"/C/Users/jbrd/rails/wookie/Gemfile",
+		"/C/Users/jbrd/rails/wookie/master_yoda/app/workers/search_worker.rb",
+		"/C/Users/jbrd/rails/wookie/config/unicorn/staging.rb",
+		"/C/Users/jbrd/rails/wookie/config/deploy.rb",
+		"/C/Users/jbrd/rails/wookie/config/deploy/staging.rb",
+		"/C/Users/jbrd/rails/wookie/master_yoda/lib/yoda/payment/svea.rb",
+		"/C/Users/jbrd/rails/wookie/app/views/checkout/partials/_paymethods.html.erb",
+		"/C/Users/jbrd/rails/wookie/config/environments/production.rb",
+		"/C/Users/jbrd/rails/wookie/app/controllers/checkout_controller.rb",
+		"/C/Users/jbrd/rails/wookie/app/controllers/static_contents_controller.rb",
+		"/C/Users/jbrd/rails/wookie/app/views/products/show.html.erb",
+		"/C/Users/jbrd/rails/wookie/config/locales/sv.yml",
+		"/C/Users/jbrd/rails/wookie/config/locales/en.yml",
+		"/C/Users/jbrd/rails/wookie/app/views/checkout/partials/payment_choices/_payment_plan_choices.html.erb",
+		"/C/Users/jbrd/rails/wookie/app/views/partials/_category.html.erb",
+		"/C/Users/jbrd/rails/wookie/app/views/products/variants.js.erb",
+		"/C/Users/jbrd/rails/wookie/app/helpers/products_helper.rb",
+		"/C/Users/jbrd/rails/wookie/config/locales/da.yml",
+		"/C/Users/jbrd/rails/wookie/app/views/partials/_tracking_scripts.html.erb",
+		"/C/Users/jbrd/rails/wookie/app/views/products/load_variant.js.erb",
+		"/C/Users/jbrd/rails/wookie/app/controllers/application_controller.rb",
+		"/C/Users/jbrd/rails/wookie/app/controllers/cart_controller.rb",
+		"/C/Users/jbrd/rails/wookie/app/views/partials/_mainmenu.html.erb",
+		"/C/Users/jbrd/rails/wookie/master_yoda/lib/yoda/fact_finder.rb",
+		"/C/Users/jbrd/rails/wookie/master_yoda/lib/yoda/grid.rb",
+		"/C/Users/jbrd/rails/wookie/config/database.yml",
+		"/C/Users/jbrd/rails/wookie/config/initializers/session_store.rb",
+		"/C/Users/jbrd/rails/wookie/app/controllers/punchout_controller.rb",
+		"/C/Users/jbrd/rails/wookie/master_yoda/app/views/vouchers/_tab_general.html.erb",
+		"/C/Users/jbrd/rails/wookie/app/inputs/boolean_label_outside_input.rb",
+		"/C/Users/jbrd/rails/wookie/app/views/layouts/application.html.erb",
+		"/C/Users/jbrd/rails/wookie/app/views/partials/_google_tagmanager.html.erb",
+		"/C/Users/jbrd/rails/wookie/app/views/cart/_cart_row.html.erb",
+		"/C/Users/jbrd/rails/wookie/master_yoda/app/models/product.rb",
+		"/C/Users/jbrd/rails/wookie/master_yoda/app/models/guide.rb",
+		"/C/RailsInstaller/DevKit/mingw/i686-w64-mingw32/include/time.h",
+		"/C/RailsInstaller/Ruby2.1.0/lib/ruby/gems/2.1.0/gems/gctools-0.2.3/ext/gcprof/gcprof.c",
+		"/C/RailsInstaller/DevKit/mingw/i686-w64-mingw32/include/sys/time.h",
+		"//everest/Folder-redir$/jbrd/Desktop/Putty/servage",
+		"/C/Users/jbrd/rails/wookie/config/unicorn/production.rb",
+		"/C/Users/jbrd/rails/wookie/app/inputs/radio_label_outside_input.rb",
+		"/C/Users/jbrd/rails/wookie/app/helpers/categories_helper.rb",
+		"/C/Users/jbrd/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/jbrd/rails/wookie/Capfile",
+		"/C/Users/jbrd/rails/wookie/config/deploy/production.rb",
+		"/C/Users/jbrd/rails/yoda/Capfile",
+		"/C/Users/jbrd/rails/yoda/lib/yoda/shipping/base_shipping.rb",
+		"/C/Users/jbrd/rails/yoda/lib/yoda/shipping/mypack.rb",
+		"/C/Users/jbrd/rails/yoda/lib/yoda/shipping/express.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/item_tag_relation.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/variant.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/product.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/payment_method.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/order_row.rb",
+		"/C/Users/jbrd/rails/yoda/app/controllers/application_controller.rb",
+		"/C/Users/jbrd/rails/yoda/config/deploy.rb",
+		"//everest/Folder-redir$/jbrd/Desktop/Putty/public_key_koding",
+		"//everest/Folder-redir$/jbrd/Desktop/Putty/outnorth_jacob_pub",
+		"/C/Users/jbrd/rails/yoda/app/models/ability.rb",
+		"/C/Users/jbrd/rails/yoda/lib/yoda/publish.rb",
+		"/C/Users/jbrd/rails/yoda/lib/yoda/translate_able.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/live_package_part.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/stock.rb",
+		"/C/Users/jbrd/rails/yoda/lib/yoda/active_record_associations.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/voucher_log.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/ticket_log.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/product_comment.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/order_log.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/tag.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/campaign.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/contact.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/concerns/searchable.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/grid_element.rb",
+		"/C/Users/jbrd/rails/yoda/lib/yoda/common_config.rb",
+		"/C/Users/jbrd/rails/yoda/app/workers/search_worker.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/meta_data.rb",
+		"/C/Users/jbrd/rails/yoda/app/views/application/_debug.html.erb",
+		"/C/Users/jbrd/rails/yoda/lib/tasks/yoda.rake",
+		"/C/Users/jbrd/rails/yoda/app/views/application/_publish.erb",
+		"/C/Users/jbrd/rails/yoda/app/models/order.rb",
+		"/C/Users/jbrd/rails/yoda/lib/yoda/smart_touch.rb",
+		"/C/Users/jbrd/rails/yoda/Gemfile",
+		"/C/Users/jbrd/rails/yoda/.gitignore",
+		"/C/Users/jbrd/rails/yoda/.yardopts",
+		"/C/Users/jbrd/rails/yoda/lib/yoda/payment/paypal.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/product_relation.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/package_part.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/price.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/product_image.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/product_rating.rb",
+		"/C/Users/jbrd/rails/yoda/app/models/guide_choice.rb",
+		"/C/Users/jbrd/AppData/Roaming/Sublime Text 3/Installed Packages/GitLink.sublime-package",
+		"/C/Users/jbrd/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/jbrd/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jbrd/rails/yoda/app/views/tags/_search_form.html.erb",
+		"/C/Users/jbrd/rails/yoda/app/models/live_tag.rb",
+		"/C/Users/jbrd/rails/yoda/app/views/campaigns/_search_form.html.erb",
+		"/C/Users/jbrd/rails/yoda/app/models/live_variant.rb",
+		"/C/Users/jbrd/rails/yoda/app/controllers/products_controller.rb",
+		"/C/Users/jbrd/rails/yoda/app/views/products/destroy.js.erb",
+		"/C/Users/jbrd/rails/yoda/app/controllers/users_controller.rb",
+		"/C/Users/jbrd/rails/yoda/config/routes.rb"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"",
+			"topimage",
+			"",
+			"*.yml",
+			"",
+			"*.rb",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"footer-infor",
+			"bottom-teaser",
+			"author",
+			"span",
+			"index-head",
+			"index-he",
+			"h5",
+			"h1",
+			"Supported",
+			"topimage-image",
+			"topi",
+			"teas",
+			"teaserimage",
+			"teas",
+			"df_logo",
+			"favic",
+			"overvie",
+			"post-reading",
+			"read",
+			"inner",
+			"teaser",
+			"4a",
+			"57ad68",
+			"#",
+			"btn",
+			"#57ad68",
+			"inner",
+			"highlig",
+			"google-itemprops",
+			"-categories-menu-",
+			"ssl",
+			"use_ssl?",
+			"force_ssl",
+			"@use_ssl",
+			"system",
+			"uni",
+			"@shipping_methods",
+			"cache",
+			"@var_annuity_price",
+			"price_html",
+			"part_payment ",
+			"payment_plan",
+			"checkout",
+			"checout",
+			"set_order_from_session",
+			"@payment_row",
+			"filter_choices",
+			"have_sys",
+			".png",
+			"se.png",
+			"logo-outnorth",
+			"se.png",
+			"rack",
+			"render.*remove",
+			"remove",
+			"remove_show",
+			"controller_name",
+			"boolean_label_outside",
+			"controller_name",
+			"event",
+			"gtmevent",
+			"gtm",
+			"extra_header",
+			"vwo",
+			"contac",
+			"ip",
+			"intro",
+			"payment_method",
+			"get_choices",
+			"item_pri",
+			"unit_discount",
+			"unpublish_translation",
+			"unpublish_tr",
+			"LiveClassMethods",
+			"publish_class",
+			"has_many :item_tag",
+			"git",
+			"smart_touch_relations",
+			"byebug",
+			"lan_db",
+			"filtered",
+			"macro",
+			"responds",
+			"logger",
+			"included",
+			"condi",
+			"conditions",
+			"AAAAB3NzaC1yc2EAAAAD",
+			"User",
+			"can",
+			"cancancan",
+			"get_history",
+			"get_",
+			"paper",
+			"translateable",
+			"translate",
+			"globa",
+			"globalize",
+			"actmacro",
+			"act_macro",
+			"destro",
+			"destroy",
+			"bye",
+			"destro",
+			"update_quantity_async_flag",
+			"build_stock",
+			"provider",
+			"\"",
+			"\", \"",
+			"get_index_related_associations"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"footer-infor",
+			"image-container",
+			"topimage",
+			"",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								79
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_includes/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2555,
+								2555
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_includes/javascripts.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 677.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_layouts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5683,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3168,
+								3156
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1590.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4110,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										190,
+										202
+									],
+									[
+										474,
+										486
+									],
+									[
+										625,
+										637
+									],
+									[
+										786,
+										798
+									],
+									[
+										974,
+										986
+									],
+									[
+										1084,
+										1096
+									],
+									[
+										1178,
+										1190
+									],
+									[
+										1287,
+										1299
+									],
+									[
+										1409,
+										1421
+									],
+									[
+										1596,
+										1608
+									],
+									[
+										1767,
+										1779
+									],
+									[
+										1939,
+										1951
+									],
+									[
+										2020,
+										2032
+									],
+									[
+										2210,
+										2222
+									],
+									[
+										2284,
+										2296
+									],
+									[
+										2408,
+										2420
+									],
+									[
+										2579,
+										2591
+									],
+									[
+										2708,
+										2720
+									],
+									[
+										2820,
+										2832
+									],
+									[
+										3039,
+										3051
+									],
+									[
+										3106,
+										3118
+									],
+									[
+										3180,
+										3192
+									],
+									[
+										3437,
+										3449
+									],
+									[
+										3691,
+										3703
+									],
+									[
+										3863,
+										3875
+									],
+									[
+										3930,
+										3942
+									],
+									[
+										4004,
+										4016
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"default_dir": "C:\\Users\\jbrd\\rails\\jacobrastad.github.io",
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ 	].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								763,
+								763
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/main.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3692,
+								3780
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4052.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "settings.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"head",
+				"_includes\\head.html"
+			],
+			[
+				"hea",
+				"_includes\\header.html"
+			],
+			[
+				"sas",
+				"css\\main.sass"
+			],
+			[
+				"sass",
+				"css\\main.sass"
+			],
+			[
+				"produc",
+				"config\\environments\\production.rb"
+			],
+			[
+				"initsess",
+				"config\\initializers\\session_store.rb"
+			],
+			[
+				"mainme",
+				"app\\views\\partials\\_mainmenu.html.erb"
+			],
+			[
+				"ssl",
+				"master_yoda\\lib\\yoda\\ssl_socket.rb"
+			],
+			[
+				"deplo",
+				"config\\deploy.rb"
+			],
+			[
+				"appcontr",
+				"app\\controllers\\application_controller.rb"
+			],
+			[
+				"viewpay",
+				"app\\views\\checkout\\partials\\_paymethods.html.erb"
+			],
+			[
+				"viewpaymen",
+				"master_yoda\\app\\views\\payment_methods\\_payment_method.html.erb"
+			],
+			[
+				"depl",
+				"config\\deploy.rb"
+			],
+			[
+				"unistag",
+				"config\\unicorn\\staging.rb"
+			],
+			[
+				"deplstag",
+				"config\\deploy\\staging.rb"
+			],
+			[
+				"searcwork",
+				"master_yoda\\app\\workers\\search_worker.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"viewgui",
+				"master_yoda\\app\\views\\guide_steps\\_guide_step.html.erb"
+			],
+			[
+				"deplsta",
+				"config\\deploy\\staging.rb"
+			],
+			[
+				"unicstag",
+				"config\\unicorn\\staging.rb"
+			],
+			[
+				"envprod",
+				"config\\environments\\production.rb"
+			],
+			[
+				"viewprosho",
+				"app\\views\\products\\show.html.erb"
+			],
+			[
+				"staticontr",
+				"app\\controllers\\static_contents_controller.rb"
+			],
+			[
+				"deply",
+				"config\\deploy.rb"
+			],
+			[
+				"paymenplanchoic",
+				"app\\views\\checkout\\partials\\payment_choices\\_payment_plan_choices.html.erb"
+			],
+			[
+				"local.yml",
+				"config\\locales\\da.yml"
+			],
+			[
+				"cartcontr",
+				"app\\controllers\\cart_controller.rb"
+			],
+			[
+				"chekccont",
+				"app\\controllers\\checkout_controller.rb"
+			],
+			[
+				"cartcon",
+				"app\\controllers\\cart_controller.rb"
+			],
+			[
+				"paymeplachoi",
+				"app\\views\\checkout\\partials\\payment_choices\\_payment_plan_choices.html.erb"
+			],
+			[
+				"checkpartipaychoi",
+				"app\\views\\checkout\\partials\\payment_choices\\_payment_plan_choices.html.erb"
+			],
+			[
+				"viewpayme",
+				"app\\views\\checkout\\partials\\_paymethods.html.erb"
+			],
+			[
+				"modelguirb",
+				"master_yoda\\app\\models\\guide.rb"
+			],
+			[
+				"cartrow",
+				"app\\views\\cart\\_cart_row.html.erb"
+			],
+			[
+				"googltag",
+				"app\\views\\partials\\_google_tagmanager.html.erb"
+			],
+			[
+				"libgrid",
+				"master_yoda\\lib\\yoda\\grid.rb"
+			],
+			[
+				"libfact",
+				"master_yoda\\lib\\yoda\\fact_finder.rb"
+			],
+			[
+				"punchout",
+				"app\\controllers\\punchout_controller.rb"
+			],
+			[
+				"data",
+				"config\\database.yml"
+			],
+			[
+				"gemf",
+				"Gemfile.lock"
+			],
+			[
+				"inputs",
+				"app\\inputs\\radio_label_outside_input.rb"
+			],
+			[
+				"googletag",
+				"app\\views\\partials\\_google_tagmanager.html.erb"
+			],
+			[
+				"tracsc",
+				"app\\views\\partials\\_tracking_scripts.html.erb"
+			],
+			[
+				"header",
+				"app\\views\\partials\\_header.html.erb"
+			],
+			[
+				"unicorn",
+				"config\\unicorn\\production.rb"
+			],
+			[
+				"applcon",
+				"app\\controllers\\application_controller.rb"
+			],
+			[
+				"checcon",
+				"app\\controllers\\checkout_controller.rb"
+			],
+			[
+				"checko",
+				"app\\controllers\\checkout_controller.rb"
+			],
+			[
+				"modelprodrb",
+				"master_yoda\\app\\models\\product.rb"
+			],
+			[
+				"deplprod",
+				"config\\deploy\\production.rb"
+			],
+			[
+				"cap",
+				"Capfile"
+			],
+			[
+				"deplorb",
+				"config\\deploy.rb"
+			],
+			[
+				"sv.ym",
+				"config\\locales\\sv.yml"
+			],
+			[
+				"payencont",
+				"app\\controllers\\payment_methods_controller.rb"
+			],
+			[
+				"common",
+				"lib\\yoda\\common_config.rb"
+			],
+			[
+				"paysve",
+				"lib\\yoda\\payment\\svea.rb"
+			],
+			[
+				"libshipmy",
+				"lib\\yoda\\shipping\\mypack.rb"
+			],
+			[
+				"libshipp",
+				"lib\\yoda\\shipping\\express.rb"
+			],
+			[
+				"rake",
+				"lib\\tasks\\yoda.rake"
+			],
+			[
+				"libpub",
+				"lib\\yoda\\publish.rb"
+			],
+			[
+				"libpubl",
+				"lib\\yoda\\publish.rb"
+			],
+			[
+				"debughtml",
+				"app\\views\\application\\_debug.html.erb"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"libpaypayp",
+				"lib\\yoda\\payment\\paypal.rb"
+			],
+			[
+				"modelprodrel",
+				"app\\models\\product_relation.rb"
+			],
+			[
+				"modelpackpart",
+				"app\\models\\package_part.rb"
+			],
+			[
+				"modelpackp",
+				"app\\models\\live_package_part.rb"
+			],
+			[
+				"modelprice",
+				"app\\models\\price.rb"
+			],
+			[
+				"modelprodima",
+				"app\\models\\product_image.rb"
+			],
+			[
+				"modelvaria",
+				"app\\models\\variant.rb"
+			],
+			[
+				"modelproducra",
+				"app\\models\\product_rating.rb"
+			],
+			[
+				"modelitemtag",
+				"app\\models\\item_tag_relation.rb"
+			],
+			[
+				"publish.r",
+				"lib\\yoda\\publish.rb"
+			],
+			[
+				"modeltag.rb",
+				"app\\models\\tag.rb"
+			],
+			[
+				"modeltag",
+				"app\\models\\live_tag.rb"
+			],
+			[
+				"tagsearchfor",
+				"app\\views\\tags\\_search_form.html.erb"
+			],
+			[
+				"searchfor",
+				"app\\views\\campaigns\\_search_form.html.erb"
+			],
+			[
+				"item",
+				"app\\models\\item_tag_relation.rb"
+			],
+			[
+				"modelvarirb",
+				"app\\models\\variant.rb"
+			],
+			[
+				"modelvar",
+				"app\\models\\live_variant.rb"
+			],
+			[
+				"prod",
+				"app\\models\\product.rb"
+			],
+			[
+				"transl",
+				"lib\\yoda\\translate_able.rb"
+			],
+			[
+				"libactive",
+				"lib\\yoda\\active_record_associations.rb"
+			],
+			[
+				"voucherlog",
+				"app\\models\\voucher_log.rb"
+			],
+			[
+				"ticketlo",
+				"app\\models\\ticket_log.rb"
+			],
+			[
+				"prodcom",
+				"app\\models\\product_comment.rb"
+			],
+			[
+				"orderlog",
+				"app\\models\\order_log.rb"
+			],
+			[
+				"tag.r",
+				"app\\models\\tag.rb"
+			],
+			[
+				"modelgridele",
+				"app\\models\\grid_element.rb"
+			],
+			[
+				"modegrid.r",
+				"app\\models\\grid.rb"
+			],
+			[
+				"modelgr",
+				"app\\models\\live_grid.rb"
+			],
+			[
+				"comm",
+				"lib\\yoda\\common_config.rb"
+			],
+			[
+				"conenvi",
+				"config\\environment.rb"
+			],
+			[
+				"searca",
+				"app\\models\\concerns\\searchable.rb"
+			],
+			[
+				"cate",
+				"app\\models\\category.rb"
+			],
+			[
+				"modelcampa",
+				"app\\models\\campaign.rb"
+			],
+			[
+				"conta",
+				"app\\models\\contact.rb"
+			],
+			[
+				"route",
+				"config\\routes.rb"
+			],
+			[
+				"usercont",
+				"app\\controllers\\users_controller.rb"
+			],
+			[
+				"applicont",
+				"app\\controllers\\application_controller.rb"
+			],
+			[
+				"producdestro",
+				"app\\views\\products\\destroy.js.erb"
+			],
+			[
+				"meta",
+				"app\\models\\meta_data.rb"
+			],
+			[
+				"prodcontr",
+				"app\\controllers\\products_controller.rb"
+			],
+			[
+				"gitign",
+				".gitignore"
+			],
+			[
+				"stock",
+				"app\\models\\stock.rb"
+			],
+			[
+				"brand",
+				"app\\models\\brand.rb"
+			],
+			[
+				"vagrna",
+				"Vagrantfile"
+			],
+			[
+				"",
+				"app\\models\\concerns\\searchable.rb"
+			],
+			[
+				"searcwor",
+				"app\\workers\\search_worker.rb"
+			],
+			[
+				"concernel",
+				"app\\models\\concerns\\searchable.rb"
+			],
+			[
+				"viewvouc",
+				"app\\views\\vouchers\\new.html.erb"
+			],
+			[
+				"controlvou",
+				"app\\controllers\\vouchers_controller.rb"
+			],
+			[
+				"voucher",
+				"app\\models\\voucher.rb"
+			],
+			[
+				"modelorder",
+				"app\\models\\order.rb"
+			],
+			[
+				"insta",
+				"app\\views\\ticketing_ques_quick_titles\\_list_for_select_instance.html.erb"
+			],
+			[
+				"capf",
+				"Capfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 366.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
