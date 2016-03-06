@@ -4,7 +4,7 @@ title: Getting started with Jekyll on Github with Windows
 categories: jekyll
 ---
 
-The first post of this blog will of course be about how to setup the blog itself. A short story about is's own creation.
+The first post of this blog will be about how to setup the blog itself. A short story about its own creation.
 
 If you haven't already, install Ruby on your machine. Checkout [RubyInstaller.org](http://rubyinstaller.org/){:target="_blank"}, don't forget to install the Ruby devkit too.
 
@@ -62,7 +62,7 @@ _site
 
 ## Fix your Gemfile
 
-Create a file called `Gemfile` and add the followin lines:
+Create a file called `Gemfile` and add the following lines:
 
 {% highlight ruby %}
 source 'https://rubygems.org'
@@ -72,10 +72,10 @@ gem 'jemoji'
 gem 'jekyll-compose', group: [:jekyll_plugins]
 {% endhighlight %}
 
-*Github-pages* is a gem from Github that adds a few default settings to your Jekyll project.
-*Wdm* remember that Jekyll needed an extra gem to be able to watch your files for changes? Well this line makes it happen.
-*Jemoji* lets you add emojis supported by Github in your content. If you don't like emojis, you can remove this line.
-*Jekyll-compose* adds a few shortcut commands to generate new posts.
+- *Github-pages* is a gem from Github that adds a few default settings to your Jekyll project.
+- *Wdm* - Remember that Jekyll needed an extra gem to be able to watch your files for changes? Well this line makes it happen.
+- *Jemoji* lets you add emojis supported by Github in your content. If you don't like emojis, you can remove this line.
+- *Jekyll-compose* adds a few shortcut commands to generate new posts.
 
 ## Commit and push it!
 
