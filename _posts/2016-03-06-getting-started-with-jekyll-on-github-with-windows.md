@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Getting started with Jekyll on Github with Windows
+title: "Getting started with Jekyll on Github with Windows"
 categories: jekyll
+image: /assets/article_images/2016-03-06-getting-started-with-jekyll-on-github-with-windows/header_jekyll_on_windows.jpg
 ---
 
 The first post of this blog will be about how to setup the blog itself. A short story about its own creation.
